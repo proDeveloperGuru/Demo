@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<documents>
+  <document>
+    <title>Drošības politika</title>
+    <description>Organizācijas IT drošības pamatnostādnes.</description>
+    <responsibleUnit>IT nodaļa</responsibleUnit>
+    <createdAt>2024-10-01</createdAt>
+    <url>https://example.com/docs/drosibas-politika.pdf</url>
+    <fileType>PDF</fileType>
+    <estimatedReadingTimeMinutes>15</estimatedReadingTimeMinutes>
+    <importanceLevel>augsts</importanceLevel>
+    <category>iekšējs</category>
+    <isActive>true</isActive>
+  </document>
+
+  <document>
+    <title>Publiskais pārskats</title>
+    <description>Gada publiskais finanšu pārskats.</description>
+    <responsibleUnit>Finanšu nodaļa</responsibleUnit>
+    <createdAt>2024-05-15</createdAt>
+    <url>https://example.com/docs/gada-parskats.html</url>
+    <fileType>HTML</fileType>
+    <estimatedReadingTimeMinutes>30</estimatedReadingTimeMinutes>
+    <importanceLevel>kritisks</importanceLevel>
+    <category>publisks</category>
+    <isActive>true</isActive>
+  </document>
+</documents>
